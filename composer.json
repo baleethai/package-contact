@@ -1,0 +1,13 @@
+{
+    "name": "tum/contact",
+    "description": "This is a demo package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Thinnakorn",
+            "email": "baleethai@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
