@@ -1,10 +1,10 @@
 {
     "name": "tum/contact",
     "description": "This is a demo package",
-    "type": "library",
+    "type": "library, laravel, package",
     "authors": [
         {
-            "name": "Thinnakorn",
+            "name": "Tum",
             "email": "baleethai@gmail.com"
         }
     ],
@@ -16,6 +16,9 @@
         }
     },
     "extra": {
+        "branch-alias": {
+            "dev-master": "v2.0"
+        },
         "laravel": {
             "providers": [
                 "Tum\\Contact\\ServiceProvider"
