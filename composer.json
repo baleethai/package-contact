@@ -17,11 +17,11 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "v2.0"
+            "dev-master": "2.0"
         },
         "laravel": {
             "providers": [
-                "Tum\\Contact\\ServiceProvider"
+                "Tum\\Contact\\ContactServiceProvider"
             ]
         }
     }
