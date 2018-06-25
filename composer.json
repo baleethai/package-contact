@@ -14,5 +14,12 @@
         "psr-4": {
             "Tum\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Tum\\Contact\\ServiceProvider"
+            ]
+        }
     }
 }
